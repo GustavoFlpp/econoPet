@@ -1,0 +1,91 @@
+/* Estilos Gerais da Aplicação */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+  margin-top: 250px;
+  border-radius: 8px;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  color: #5c67f2;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input[type="date"],
+input[type="number"],
+button {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+label {
+  font-weight: bold;
+}
+
+button {
+  background-color: #5c67f2;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #4a54e1;
+}
+
+p {
+  background-color: #e2e2e2;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+
+@media screen and (max-width: 768px) {
+  .App {
+    margin-top: 100px;
+  }
+  input[type="date"],
+  input[type="number"],
+  button {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .App {
+    margin-top: 50px;
+    padding: 10px;
+  }
+  input[type="date"],
+  input[type="number"],
+  button {
+    width: 100%;
+    padding: 5px;
+  }
+}
