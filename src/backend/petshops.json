@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Meu Canino Feliz",
+        "distancia": 2.00,
+        "banhoDiaDeSemanaCaoPequeno": 20.00,
+        "banhoDiaDeSemanaCaoGrande": 40.00,
+        "banhoFinalDeSemanaCaoPequeno": 24.00,
+        "banhoFinalDeSemanaCaoGrande": 48.00
+    },
+    {
+        "name": "Vai Rex",
+        "distancia": 1.70,
+        "banhoDiaDeSemanaCaoPequeno": 15.00,
+        "banhoDiaDeSemanaCaoGrande": 50.00,
+        "banhoFinalDeSemanaCaoPequeno": 20.00,
+        "banhoFinalDeSemanaCaoGrande": 55.00
+    },
+    {
+        "name": "ChowChawgas",
+        "distancia": 0.80,
+        "banhoDiaDeSemanaCaoPequeno": 30.00,
+        "banhoDiaDeSemanaCaoGrande": 45.00,
+        "banhoFinalDeSemanaCaoPequeno": 30.00,
+        "banhoFinalDeSemanaCaoGrande": 45.00
+    }
+]
