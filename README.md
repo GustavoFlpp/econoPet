@@ -39,4 +39,4 @@ EconoPet é um sistema para encontrar o melhor petshop com base na data e na qua
 - Estou aberto a feedbacks e sugestões para melhorias no código e na funcionalidade do sistema.
 
 ## Fluxograma da Aplicação
-![Fluxograma da Aplicação](fluxograma.jpg)
+![Fluxograma da Aplicação](Fluxograma.jpg)
